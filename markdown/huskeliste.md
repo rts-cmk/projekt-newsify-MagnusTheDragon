@@ -1,0 +1,1 @@
+- [Figma Skabelon](https://www.figma.com/design/Nwvc4qgRW5YUxIfJO71JUu/newsify?node-id=2030-321&t=dd7XmYbonZBuSlZY-0)
